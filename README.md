@@ -3,7 +3,7 @@
 **Software developer from Argentina**
 
 - 🔭 I’m currently building API's on **Java**
-- 🌱 I’m currently learning **NodeJS and SmartContracts**
+- 🌱 I’m currently learning **NodeJS** and **Smart Contracts**
 - 👯 Working at [Unitech](https://www.unitech-corp.com/)
 - 📫 How to reach me: **julianromane@gmail.com**
 
