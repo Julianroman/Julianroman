@@ -1,4 +1,4 @@
-### Hi there 👋, I' Julián Román
+### Hi there 👋, I'm Julián Román
 
 **Software developer from Argentina**
 
